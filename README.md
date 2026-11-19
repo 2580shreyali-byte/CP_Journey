@@ -6,28 +6,75 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 11 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (1)
+- [*special](#special) (1)
+- [greedy](#greedy) (2)
+- [implementation](#implementation) (9)
 - [math](#math) (1)
+- [sortings](#sortings) (1)
+- [strings](#strings) (1)
+- [two pointers](#two-pointers) (4)
 
 ---
+
+### *special
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
+| 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
+| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
+| 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.java) |
+| 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
+| 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.java) |
+| 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.java) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.java) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
+| 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.java) |
+| 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.java) |
+| 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 
 ---
 
