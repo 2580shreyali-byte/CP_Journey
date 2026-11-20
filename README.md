@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 8 |
+| 30 | 8 |
 
 ---
 
@@ -14,11 +14,11 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
-- [greedy](#greedy) (3)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (22)
 - [math](#math) (7)
 - [sortings](#sortings) (3)
-- [strings](#strings) (13)
+- [strings](#strings) (14)
 - [two pointers](#two-pointers) (4)
 
 ---
@@ -42,6 +42,7 @@
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
+| 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 
 ### implementation
@@ -108,6 +109,7 @@
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/520/A%20-%20Pangram/solution.java) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.java) |
+| 1374C | [Move Brackets](https://codeforces.com/contest/1374/problem/C) | 1000 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/1374/C%20-%20Move%20Brackets/solution.java) |
 
 ### two pointers
 
