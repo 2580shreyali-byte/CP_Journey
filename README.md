@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 30 | 8 |
+| 31 | 8 |
 
 ---
 
@@ -15,10 +15,10 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (22)
+- [implementation](#implementation) (23)
 - [math](#math) (7)
 - [sortings](#sortings) (3)
-- [strings](#strings) (14)
+- [strings](#strings) (15)
 - [two pointers](#two-pointers) (4)
 
 ---
@@ -63,6 +63,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
+| 499B | [Lecture](https://codeforces.com/contest/499/problem/B) | 1000 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/499/B%20-%20Lecture/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/520/A%20-%20Pangram/solution.java) |
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
@@ -106,6 +107,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 499B | [Lecture](https://codeforces.com/contest/499/problem/B) | 1000 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/499/B%20-%20Lecture/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/520/A%20-%20Pangram/solution.java) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.java) |
