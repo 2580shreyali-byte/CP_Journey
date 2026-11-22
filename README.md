@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 8 |
+| 32 | 8 |
 
 ---
 
@@ -15,9 +15,9 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (23)
+- [implementation](#implementation) (24)
 - [math](#math) (7)
-- [sortings](#sortings) (3)
+- [sortings](#sortings) (4)
 - [strings](#strings) (15)
 - [two pointers](#two-pointers) (4)
 
@@ -71,6 +71,7 @@
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 | 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.java) |
+| 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/1760/A%20-%20Medium%20Number/solution.java) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.java) |
 
 ### math
@@ -91,6 +92,7 @@
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
+| 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/1760/A%20-%20Medium%20Number/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 
 ### strings
