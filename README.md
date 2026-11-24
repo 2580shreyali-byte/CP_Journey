@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 32 | 8 |
+| 33 | 9 |
 
 ---
 
@@ -15,8 +15,9 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (24)
+- [implementation](#implementation) (25)
 - [math](#math) (7)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (4)
 - [strings](#strings) (15)
 - [two pointers](#two-pointers) (4)
@@ -65,6 +66,7 @@
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/486/A%20-%20Calculating%20Function/solution.java) |
 | 499B | [Lecture](https://codeforces.com/contest/499/problem/B) | 1000 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/499/B%20-%20Lecture/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/520/A%20-%20Pangram/solution.java) |
+| 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.java) |
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
@@ -85,6 +87,12 @@
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.java) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.java) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 577A | [Multiplication Table](https://codeforces.com/contest/577/problem/A) | 1000 | [Java 8](https://github.com/2580shreyali-byte/CP_Journey/blob/HEAD/577/A%20-%20Multiplication%20Table/solution.java) |
 
 ### sortings
 
